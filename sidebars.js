@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1'],
+    Docusaurus: ['react-patterns-1.md','doc1'],
     Features: ['mdx'],
   },
 };
