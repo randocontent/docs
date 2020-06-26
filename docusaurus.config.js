@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://randocontent.github.io/',
+  title: 'Open Source Notes',
+  tagline: '',
+  url: 'https://randocontent.github.io',
   baseUrl: '/docs/',
   favicon: 'img/favicon.ico',
   organizationName: 'randocontent', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Open Source Notes',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       links: [
